@@ -3,3 +3,4 @@ Goodbye, World
 Added line
 
 line from new_feature
+line2 from new_feature
